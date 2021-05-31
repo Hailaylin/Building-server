@@ -1,0 +1,24 @@
+[31五月2021 23:49:17.339] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    运行版本 arclight-1.16.5-1.0.18-32d233f
+    构建日期 2021-05-09 15:25:37
+
+[31五月2021 23:49:17.383] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.1.4, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[31五月2021 23:49:17.388] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_261 by Oracle Corporation
+[31五月2021 23:49:17.544] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[31五月2021 23:49:17.590] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/D:/Building-server/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[31五月2021 23:49:17.657] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file D:\Building-server\config\fml.toml is not correct. Correcting
+[31五月2021 23:49:17.667] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[31五月2021 23:49:19.054] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_1_16]
+[31五月2021 23:49:19.218] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[31五月2021 23:49:19.223] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[31五月2021 23:49:19.235] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[31五月2021 23:49:21.599] [main/WARN] [net.minecraft.server.ServerEula/]: Failed to load eula.txt
+[31五月2021 23:49:21.609] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
