@@ -1,0 +1,1 @@
+java -Xmx6G -Xms2G -server -jar arclight-forge-1.16-1.0.18.jar --nogui
